@@ -31,7 +31,6 @@ Welcome to the **Python Training** repository! This repository contains the code
    - matplotlib
    - seaborn
   you can install them using -
-  ```bash
   pip install pandas numpy matplotlib seaborn
 
 3. Run the code examples and explore the presentations for an in-depth understanding of Python programming and data manipulation.
