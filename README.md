@@ -26,13 +26,13 @@ Welcome to the **Python Training** repository! This repository contains the code
    ```bash
    git clone https://github.com/yourusername/PythonTraining.git
 2. Install the required libraries:
-   - pandas
-   - numpy
-   - matplotlib
-   - seaborn
-  you can install them using -
-  pip install pandas numpy matplotlib seaborn
-
+   - `pandas`
+   - `numpy`
+   - `matplotlib`
+   - `seaborn`
+   you can install them using -
+   ```bash
+   pip install pandas numpy matplotlib seaborn
 3. Run the code examples and explore the presentations for an in-depth understanding of Python programming and data manipulation.
 
 ## Resources
