@@ -24,7 +24,7 @@ Welcome to the **Python Training** repository! This repository contains the code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PythonTraining.git
+   git clone https://github.com/lunatic-bot/PythonTraining.git
    
 2. Install the required libraries:
    - `pandas`
